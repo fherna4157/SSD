@@ -1,7 +1,7 @@
 
 ##Usage:
   ## From tensorflow/models/
-  ## Create train data:
+  ## Create train data:1
 python3 generate_tfrecord --csv_input=data/train_labels.csv  --output_path=data/train.record
 
   ## Create test data:
